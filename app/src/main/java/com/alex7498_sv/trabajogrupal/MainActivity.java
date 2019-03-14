@@ -1,5 +1,11 @@
 package com.alex7498_sv.trabajogrupal;
 
+
+//Integrantes:
+//Sharp Reyes Joshua Steven 00159817
+// Solorzano Chicas Victor Ernesto 00198117
+//Siguenza Argueta Ruben Alexander 00068817
+
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -44,7 +50,7 @@ public class MainActivity extends AppCompatActivity {
                 number2 = number2 + 1;
 
                 TV2.setText(Integer.toString(number2));
-                
+
 
             }
         });
